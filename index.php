@@ -7,6 +7,9 @@
 </head>
 <body>	
 	<h2>Page Title Here</h2>
+	<?php
+        echo "Today is " . date("Y/m/d");
+    ?>
 	<hr>
 	<div>
 		<p>
