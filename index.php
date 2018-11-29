@@ -14,7 +14,7 @@
 	<div>
 		<p>
 			<h3>Subject 1</h3>
-			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem ratione architecto nemo enim accusantium sit, ab, ipsam voluptate incidunt quo error ea! Obcaecati similique magnam perspiciatis eaque consectetur cumque est repellat, fuga natus consequuntur quam ipsa eveniet qui laborum quaerat error dolor temporibus exercitationem cupiditate veniam dolorum nobis. Voluptate, dignissimos.
+			Changing the text in paragraph 1 for this demonstration
 		</p>
 	</div>
 	<div>
