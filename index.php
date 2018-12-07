@@ -15,12 +15,14 @@
 		<p>
 			<h3>Subject 1</h3>
 			Changing the text in paragraph 1 for this demonstration
+
 		</p>
 	</div>
 	<div>
 		<p>
 			<h3>Subject 2</h3>
 			Hello!
+			Added some new lines on 7/12/2018
 		</p>
 	</div>
 
