@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="UTF-8">
+	<meta charset="UTF">
 	<title>AP - Group Assignment</title>
 	<link rel="stylesheet" type="text/css" href="main.css">
 </head>
 <body>	
 	<h2>Page Title Here</h2>
-	<?php
+	<?p
         echo "Today is " . date("Y/m/d");
     ?>
 	<hr>
@@ -24,7 +24,7 @@
 			Hello!
 			Added some new lines on 7/12/2018
 		</p>
-	</div>
+	</di
 
 	<div>
 		<p>
