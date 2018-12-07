@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="UTF">
+	<meta charset="UTF-8">
 	<title>AP - Group Assignment</title>
 	<link rel="stylesheet" type="text/css" href="main.css">
 </head>
 <body>	
 	<h2>Page Title Here</h2>
-	<?p
+	<?php
         echo "Today is " . date("Y/m/d");
     ?>
 	<hr>
@@ -24,11 +24,11 @@
 			Hello!
 			Added some new lines on 7/12/2018
 		</p>
-	</di
+	</div>
 
 	<div>
 		<p>
-			<h3>Subject 4</h3>
+			<h3>Subject 6</h3>
 			This is a test to see of the Jenkins implementation
 			
 
