@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="UTF-8">
+	<meta charset="UTF">
 	<title>AP - Group Assignment</title>
 	<link rel="stylesheet" type="text/css" href="main.css">
 </head>
